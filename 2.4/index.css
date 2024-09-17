@@ -1,0 +1,7 @@
+.container
+{
+    background-color: blue;
+    color:white;
+    max-width:500px;
+    margin: 0 auto;
+}

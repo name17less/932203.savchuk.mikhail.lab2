@@ -1,0 +1,14 @@
+.inline-box
+{
+    display: inline-block;
+    background-color: aquamarine;
+    margin: 15px;
+    width: 150px;
+    height: 70px;
+}
+
+.regular-box
+{
+    clear: bottom;
+    background-color: bisque;
+}

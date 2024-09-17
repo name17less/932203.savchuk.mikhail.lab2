@@ -1,0 +1,49 @@
+body
+{
+    margin: 0px;
+    height: 100%;
+}
+
+.wrapper
+{
+    min-height: 100%;
+}
+
+.main
+{
+    flex: 1 1 auto;    
+}
+
+.container {
+    display: flex;
+
+}
+
+.cell1 
+{
+    padding: 5px 0px 5px 0px;
+    background-color: bisque; 
+    box-sizing: border-box;
+}   
+
+.cell2 
+{
+    flex: 160px 0 0;
+    background-color: aqua; 
+}
+
+.cell3 
+{
+    background-color: darkgray; 
+}
+
+.footer
+{
+    background-color: limegreen;
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+}

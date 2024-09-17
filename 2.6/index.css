@@ -1,0 +1,29 @@
+.container
+{
+    background-color: blue;
+    color:white;
+    width:50%;
+    margin: 0 auto;
+}
+.container-green
+{
+    width:500px;
+    margin: 15 auto;
+    font-size:14px;
+}
+.container-blue
+{
+    width:400px;
+    padding:40px;
+    margin: 15 auto;
+    font-size:14px;
+    border: 8px solid blue;
+}
+
+main
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
